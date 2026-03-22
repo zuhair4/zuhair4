@@ -140,36 +140,6 @@ I architect frontend systems that millions rely on — from zero to production, 
 
 ---
 
-## 🌌 3D Contribution Calendar
-
-> *Generated daily via GitHub Actions — [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)*
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zuhairabbas/zuhairabbas/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuhairabbas/zuhairabbas/main/profile-3d-contrib/profile-gitblock.svg"/>
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/zuhairabbas/zuhairabbas/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## 🐍 Eating My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zuhairabbas/zuhairabbas/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuhairabbas/zuhairabbas/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/zuhairabbas/zuhairabbas/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 🧭 Current Status
 
 ```typescript
