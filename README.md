@@ -138,14 +138,6 @@ I architect frontend systems that millions rely on — from zero to production, 
 
 </div>
 
-### 📈 30-Day Activity Graph
-
-<div align="center">
-
-[![Zuhair's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuhairabbas&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=e2d9f3&area=true&area_color=4a0e8f&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ### 🏆 Trophy Cabinet
 
 <div align="center">
